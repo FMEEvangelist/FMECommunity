@@ -1,0 +1,18 @@
+In this file, enter suggestions for what you would like to see in an "FME Community Guide to Best Practices"
+
+
+1: Workspace Style
+    Creating a default style for an organization (bookmark color, connection style, etc)
+    Community recommendations for workspace style
+
+2: Workspace Strucute
+    Embedding functions into transformers vs just placing a transformer (eg @Area vs AreaCalculator)
+
+3: Custom Transformers
+    How to create a custom transformer for sharing (eg on FME Hub)
+
+
+
+
+
+
